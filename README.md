@@ -2,13 +2,15 @@
 **Department of Computer Science, The University of South Dakota**
 
 
-# Justin Smith, Ph.D.
-Senior Director Advanced Analytics<br>
-St Luke’s Health System<br>
-**Justin Smith, Ph.D. leads and functions in many capacities as Senior. Director of Advanced Analytics for St. Luke’s Health System in Boise, Idaho. St. Luke’s is a 3-Billion-dollar organization and Idaho’s largest employer.**
+# Mark Montgomery, 
+Founder & CEO KYield, Inc. (Artificial Intelligence)<br>
 
-# Title: Machine Learning in Healthcare
-Date and time: Oct. 29, 2020, 2:00 – 3:00 PM (Central Time)<br>
+**Mark Montgomery is the founder, chief executive officer, and chairman of the board of the company.
+He is the inventor of the now patented AI system rgar serves as the foundation for KYield OS as well as the patent-pending Synthetic Genius Machine. 
+Mark has been a pioneer in cloud computing and AI systems since the 1990s. He was formerly an entrepreneur, consultant and early-stage venture capitalist.**
+
+# Title: Metamorphic Transformation with Enterprise wide  Artificial Intelligence 
+Date and time: Nov. 19, 2020, 2:00 – 3:00 PM (Central Time)  
 Meeting space: https://usd.zoom.us/j/99837816224 (Public)
 
 
